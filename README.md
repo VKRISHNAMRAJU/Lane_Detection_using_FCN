@@ -99,14 +99,3 @@ I tested the Predictions on the inference code by loading the saved .h5 weights 
 
 
 
-## 🚀 About Me
-
-I am Rangala Mahesh, an enthusiastic and versatile individual deeply passionate about the realm of technology and its endless possibilities.
-
-- 🔭 I’m currently Pursing **BTech in Computer Science and Engineering in Centurion University of Technology and Management** 
-
-- 🌱 I’m currently learning about **Artificial Intelligence, Machine Learning, Deep Learning, Neural Networks, other Programming Languages**
-
-- 👨‍💻 All of my projects are available at [https://github.com/maheshmm7](https://github.com/maheshmm7)
-
-- 📫 How to reach me **maheshrangala7@gmail.com**
